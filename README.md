@@ -8,22 +8,15 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 ```
 
     ANC HD
-    DEPED TV (PH)
-    TV MARIA (PH)
-    KAPAMILYA CHANNEL HD (PH)
     CARTOON NETWORK ASIA (SG)
-    CINEMA ONE (PH)
     DZRH NEWS TV
     HBO ASIA HD (SG)
-    MYX PH (PH)
-    TV 5 (PH)
     FOX LIVE
     CNN HD
     RAKUTEN TV
     RAKUTEN TV FAMILY
     RAKUTEN TV ACTION MOVIES
     SONY MOVIES
-    CINEMO! (PH)
     ASIAN CRUSH (Not working on Kodi, Leaving it here since it's still usable on other players)
     TLC HD
     K-MOVIES
@@ -37,22 +30,38 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     INVESTIGATION DISCOVERY HD
     ANIMAX (アニマックス) | JP Audio, No Subtitle
     - CRUNCHYROLL | EN AUDIO / 720P
-    GMA PINOY (PH)
-    GMA NEWS (PH)
-    NICKELODEON JR
-    ONE NEWS (PH)
-    ONE SPORTS (PH)
-    ONE SPORTS+ (PH)
-    PBO (PH)
+    NICK JR
+    NICKELODEON
     SARI-SARI
-    SUPER RADYO DZBB (AUDIO STREAM) (PH)
-    TFC GUAM (GUAM / PH)
     WWE NETWORK
     
-    (5/26/2024) - NEW CHANNELS ADDED : Credits to Jerome Laliag 
-    TELERADYO SERBISYO (PH)
+   (8/21/2024) - LOCAL CHANNEL FROM PHILIPPINES
+    THE FILIPINO CHANNEL GUAM
+    SUPER RADYO DZBB (AUDIO STREAM)
+    PBO
+    ONE SPORTS 
+    ONE SPORTS+
+    ONE NEWS
+    GMA NEWS
+    GMA PINOY
+    GMA GTV
+    A2Z
+    JEEPNEY TV
+    ALLTV
+    KAPAMILYA CHANNEL HD
+    TV5 HD
+    CINEMO!
+    MYX PH
+    TV MARIA
+    DEPED TV
+    TELERADYO SERBISYO
+    INCTV
+    ANC HD 
+    
+(5/26/2024) - NEW CHANNELS ADDED : Credits to Jerome Laliag 
+    TELERADYO SERBISYO
     CNN
-    INCTV (PH)
+    INCTV
     TRAVEL CHANNEL
     CARTOONITO HD
     ARIRANG
@@ -93,7 +102,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     BAYWATCH
     BEIN SPORTS EXTRA
     MOVIE SPHERE
-
+    
     6/1/2024
     Sony Pix
     
