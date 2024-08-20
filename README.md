@@ -34,34 +34,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     NICKELODEON
     SARI-SARI
     WWE NETWORK
-    ```
-   (8/21/2024) - LOCAL CHANNEL FROM PHILIPPINES
-    THE FILIPINO CHANNEL GUAM
-    SUPER RADYO DZBB (AUDIO STREAM)
-    PBO
-    ONE SPORTS 
-    ONE SPORTS+
-    ONE NEWS
-    GMA NEWS
-    GMA PINOY
-    GMA GTV
-    A2Z
-    JEEPNEY TV
-    ALLTV
-    KAPAMILYA CHANNEL HD
-    TV5 HD
-    CINEMO!
-    MYX PH
-    TV MARIA
-    DEPED TV
-    TELERADYO SERBISYO
-    INCTV
-    ANC HD 
-    
-(5/26/2024) - NEW CHANNELS ADDED : Credits to Jerome Laliag 
-    TELERADYO SERBISYO
     CNN
-    INCTV
     TRAVEL CHANNEL
     CARTOONITO HD
     ARIRANG
@@ -103,11 +76,33 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     BEIN SPORTS EXTRA
     MOVIE SPHERE
     
+   (8/21/2024) - LOCAL CHANNEL FROM PHILIPPINES
+    THE FILIPINO CHANNEL GUAM
+    SUPER RADYO DZBB (AUDIO STREAM)
+    PBO
+    ONE SPORTS 
+    ONE SPORTS+
+    ONE NEWS
+    GMA NEWS
+    GMA PINOY
+    GMA GTV
+    A2Z
+    JEEPNEY TV
+    ALLTV
+    KAPAMILYA CHANNEL HD
+    TV5 HD
+    CINEMO!
+    MYX PH
+    TV MARIA
+    DEPED TV
+    TELERADYO SERBISYO
+    INCTV
+    ANC HD
+    
     6/1/2024
     Sony Pix
     
-    - Credits to all the sources of the working m3u links 
-```
+    - Credits to all the sources of the working m3u links
 
 # NOTICE
 Note that the content of this repository does not contain any videos whatsoever that is linked to the owners of the said broadcaster, this is only links made available to public by people that i compiled in order to make my own playlist / ch of IPTVs
