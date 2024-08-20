@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,DepEd TV [Geo-blocked]
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
-#EXTINF:-1, TV Maria (Philippines) (720p) [Not 24/7]
+#EXTINF:-1,TV Maria (Philippines) (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
 #EXTINF:-1,Disney Channel
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
