@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     CINEMA ONE (PH)
     DZRH NEWS TV
     HBO ASIA HD (SG)
-    MYX PH (P-)
+    MYX PH (PH)
     TV 5 (PH)
     FOX LIVE
     CNN HD
@@ -38,13 +38,13 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     ANIMAX (アニマックス) | JP Audio, No Subtitle
     - CRUNCHYROLL | EN AUDIO / 720P
     GMA PINOY (PH)
-    GMA NEWS
+    GMA NEWS (PH)
     NICKELODEON JR
     ONE NEWS (PH)
     ONE SPORTS (PH)
     ONE SPORTS+ (PH)
     PBO (PH)
-    SARI-SARI (PH)
+    SARI-SARI
     SUPER RADYO DZBB (AUDIO STREAM) (PH)
     TFC GUAM (GUAM / PH)
     WWE NETWORK
