@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     BAYWATCH
     BEIN SPORTS EXTRA
     MOVIE SPHERE
-    
+    ```
    (8/21/2024) - LOCAL CHANNEL FROM PHILIPPINES
     THE FILIPINO CHANNEL GUAM
     SUPER RADYO DZBB (AUDIO STREAM)
@@ -98,7 +98,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     TELERADYO SERBISYO
     INCTV
     ANC HD
-    
+    ```
     6/1/2024
     Sony Pix
     
