@@ -8,9 +8,9 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 ```
 
     ANC HD
-    DepEd TV
-    TV Maria (Philippines)
-    Kapamilya Channel HD
+    DEPED TV
+    TV MARIA (ph)
+    KAPAMILYA CHANNEL HD
     CARTOON NETWORK ASIA (sg)
     CINEMA ONE
     DZRH NEWS TV
