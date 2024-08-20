@@ -8,22 +8,22 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 ```
 
     ANC HD
-    DEPED TV
+    DEPED TV (ph)
     TV MARIA (ph)
-    KAPAMILYA CHANNEL HD
+    KAPAMILYA CHANNEL HD (ph)
     CARTOON NETWORK ASIA (sg)
-    CINEMA ONE
+    CINEMA ONE (ph)
     DZRH NEWS TV
     HBO ASIA HD (SG)
-    MYX PH
-    TV 5
+    MYX PH (ph)
+    TV 5 (ph)
     FOX LIVE
     CNN HD
     RAKUTEN TV
     RAKUTEN TV FAMILY
     RAKUTEN TV ACTION MOVIES
     SONY MOVIES
-    CINEMO!
+    CINEMO! (ph)
     ASIAN CRUSH (Not working on Kodi, Leaving it here since it's still usable on other players)
     TLC HD
     K-MOVIES
@@ -37,28 +37,28 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     INVESTIGATION DISCOVERY HD
     ANIMAX (アニマックス) | JP Audio, No Subtitle
     - CRUNCHYROLL | EN AUDIO / 720P
-    GMA PINOY
+    GMA PINOY (ph)
     NICKELODEON JR
-    ONE NEWS
-    ONE SPORTS
-    ONE SPORTS+
-    PBO
-    SARI-SARI
-    SUPER RADYO DZBB (AUDIO STREAM)
-    TFC GUAM
+    ONE NEWS (ph)
+    ONE SPORTS (ph)
+    ONE SPORTS+ (ph)
+    PBO (ph)
+    SARI-SARI (ph)
+    SUPER RADYO DZBB (AUDIO STREAM) (ph)
+    TFC GUAM (guam / ph)
     WWE NETWORK
     
     (5/26/2024) - NEW CHANNELS ADDED : Credits to Jerome Laliag 
     TELERADYO SERBISYO
     CNN
-    INCTV
+    INCTV (ph)
     TRAVEL CHANNEL
     CARTOONITO HD
     ARIRANG
     ALJAZEERA
     KBS WORLD
     TV5 MONDE ASIE
-    TV5 MONDE STYLE
+    TV5 MONDE STYLE 
     NHK WORLD JAPAN
     BLOOMBERG
     BBC WORLD NEWS
