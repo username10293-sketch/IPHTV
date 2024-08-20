@@ -8,12 +8,14 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 ```
 
     ANC HD
+    DepEd TV
+    TV Maria (Philippines)
+    Kapamilya Channel HD
     CARTOON NETWORK ASIA (sg)
     CINEMA ONE
     DZRH NEWS TV
     HBO ASIA HD (SG)
     MYX PH
-    DZBBDT 1
     TV 5
     FOX LIVE
     CNN HD
@@ -43,7 +45,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     PBO
     SARI-SARI
     SUPER RADYO DZBB (AUDIO STREAM)
-    TFC
+    TFC GUAM
     WWE NETWORK
     
     (5/26/2024) - NEW CHANNELS ADDED : Credits to Jerome Laliag 
