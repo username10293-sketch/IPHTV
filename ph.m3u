@@ -7,7 +7,7 @@ https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Kapamilya Channel HD (1080p)
 https://www.youtube.com/live/FRhbAAgYxfY?si=45xfHpWbQNMwuvGq
-#EXTINF:-1,ANC 
+#EXTINF:-1,ANC HD
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
@@ -31,7 +31,7 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1,INCTV
+#EXTINF:-1,INCTV [Geo-blocked]
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
